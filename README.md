@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**damascenoeliseu/damascenoeliseu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! I'm Eliseu, and I'll talk a bit about myself:
+:computer: :skateboard: :beach_umbrella:
 
-Here are some ideas to get you started:
+:man_student: B.Sc in Information Systems and Specialist in Database Administration, currently I'm a Junior Full Stack Developer.
+I like to recognize myself as a young grasshopper in search of new knowledge, new experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mag_right: I'm really keen on the study of ReactJS, React Native, Node.js, relational and non-relational databases, and agile methodologies.
+
+:camping: In my leisure time, I usually have fun riding a skateboard, watching tv series, and exploring new places with awesome landscapes.
+I consider myself an unforgettable moment explorer.
+
+:mailbox: Let's talk about technology, get in touch:
+* [LinkedIn](https://www.linkedin.com/in/eliseudamasceno/)
+* Email: eliseudamasceno@gmail.com
